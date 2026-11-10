@@ -2,7 +2,7 @@
 //
 // IMPORTANT: when you change any file and push to GitHub, bump this
 // version number. Otherwise your phone keeps showing the old cached version.
-const CACHE_NAME = 'pantry-v1';
+const CACHE_NAME = 'pantry-v2';
 
 const FILES = [
   './',
