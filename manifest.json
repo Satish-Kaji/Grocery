@@ -1,6 +1,6 @@
 {
-  "name": "Pantry",
-  "short_name": "Pantry",
+  "name": "Grocery",
+  "short_name": "Grocery",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
